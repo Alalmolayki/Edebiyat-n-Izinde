@@ -18,7 +18,7 @@ export const GameHeader: React.FC<GameHeaderProps> = ({
     <div className="flex items-center justify-between">
       <div className="flex items-center space-x-2">
         <BookOpen className="w-6 h-6 text-blue-600" />
-        <h1 className="text-2xl font-bold text-gray-800">Mesnevi Tahmin</h1>
+        <h1 className="text-2xl font-bold text-gray-800">Edebiyatın İzinde</h1>
       </div>
       <div className="text-right">
         <p className="text-sm text-gray-600">Kullanıcı: {username}</p>
